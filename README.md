@@ -13,7 +13,7 @@ This project allows users to save their favorite websites, validate inputs, disp
 
 ## 🚀 Live Demo
 
-> Add your live demo link here after deployment
+> (https://mo-yes.github.io/Bookmarker-App/)
 
 ---
 
